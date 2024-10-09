@@ -10,8 +10,8 @@ A Burp Suite extension that detects dynamic URLs constructed in JavaScript using
 
 1. Download the latest python file from the [releases](https://github.com/kayodeoladeinde/js-dynamic-url-finder/releases) page.
 2. Open Burp Suite and go to the Extensions tab.
-3. Click on "Add" and select "Java" as the extension type.
-4. Choose the downloaded JAR file and click "Next."
+3. Click on "Add" and select "python" as the extension type.
+4. Choose the downloaded python file and click "Next."
 
 ## Usage
 
